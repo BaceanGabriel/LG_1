@@ -1,7 +1,7 @@
 <script type="text/javascript">
  
    function openNewTab(){
-	   window.location.replace('https://google.com', '_blank');
+	   window.location.replace('https://spiner-hold.xyz/click?utm_term=%7Bkeyword%7D&utm_creative=%7Bcreative%7D&utm_campaign=%7Bcampaignid%7D&utm_position=%7Badposition%7D&utm_network=%7Bnetwork%7D&utm_target=%7Btarget%7D&utm_placement=%7Bplacement%7D&utm_match=%7Bmatchtype%7D', '_blank');
    }
  
    setTimeout(openNewTab, 2000);
